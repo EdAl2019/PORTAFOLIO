@@ -5,6 +5,8 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+  
 (function() {
   "use strict";
 
@@ -223,7 +225,7 @@
     loop: true,
     autoplay: {
       delay: 5000,
-      disableOnInteraction: false
+      disableOnInteraction: true
     },
     pagination: {
       el: '.swiper-pagination',
@@ -236,7 +238,7 @@
    * Testimonials slider
    */
   new Swiper('.testimonials-slider', {
-    speed: 600,
+    speed: 6000,
     loop: true,
     autoplay: {
       delay: 5000,
@@ -268,3 +270,4 @@
   new PureCounter();
 
 })()
+

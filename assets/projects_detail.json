@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "django-rest-framework": {
+                "titulo": "API REST DJANGO",
+                "category": "Web backend",
+                "client": "No disponible",
+                "date": "2023-10-01",
+                "url": "No disponible",
+                "description": "Este projecto consiste en brindar un servicio API REST mediante <strong>DJango Rest Framework</strong> y <strong>Json Web Token</strong>. Se integra muy bien con propositos de seguridad y fácil control de acceso."
+            },
+            "bingo-web": {
+                "titulo": "Bingo Web",
+                "category": "Web frontend",
+                "client": "No disponible",
+                "date": "2022-05-01",
+                "url": "No disponible",
+                "description": "Este proyecto web esta inspirado en el juego BINGO, tiene el fin de ayudar a todos los jugadores a llevar el control de la partida, anunciar por voz la secuencia de los valores en cada columna y escribir cualquier mensaje para anunciar a los participantes."
+            }
+        }
+    ]
+}
