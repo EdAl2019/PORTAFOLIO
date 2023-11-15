@@ -7,7 +7,7 @@
                 "client": "No disponible",
                 "date": "2023-10-01",
                 "url": "No disponible",
-                "description": "Este projecto consiste en brindar un servicio API REST mediante <strong>DJango Rest Framework</strong> y <strong>Json Web Token</strong>. Se integra muy bien con propositos de seguridad y fácil control de acceso."
+                "description": "Este proyecto consiste en brindar un servicio API REST mediante <strong>DJango Rest Framework</strong> y <strong>Json Web Token</strong>. Se integra muy bien con propósitos de seguridad y fácil control de acceso."
             },
             "bingo-web": {
                 "titulo": "Bingo Web",
@@ -16,6 +16,30 @@
                 "date": "2022-05-01",
                 "url": "No disponible",
                 "description": "Este proyecto web esta inspirado en el juego BINGO, tiene el fin de ayudar a todos los jugadores a llevar el control de la partida, anunciar por voz la secuencia de los valores en cada columna y escribir cualquier mensaje para anunciar a los participantes."
+            },
+            "flutter-django": {
+                "titulo": "App Flutter Client Django Rest Framework",
+                "category": "Mobile Development",
+                "client": "No disponible",
+                "date": "2023-11-15",
+                "url": "No disponible",
+                "description": "Este proyecto se enfoca en la funcionalidad de un CRUD básico en <strong>Flutter</strong>, consumiendo un backend en <strong>Django Rest Framework</strong>"
+            },
+            "Sistema-Escolar": {
+                "titulo": "Sistema Escolar en Django",
+                "category": "Web FullStack",
+                "client": "No disponible",
+                "date": "2023-08-07",
+                "url": "No disponible",
+                "description": "En este proyecto personal nace debido a mi experiencia siendo maestro de una institución educativa de pocos recursos. Me he dispuesto a desarrollar este aplicativo en <strong>Django</strong> en conjunto con tecnologías como <strong>JQuery</strong> , <strong>DataTables</strong> y <strong>Bootstrap</strong> para cubrir las necesidades y procesos de negocio en un centro educativo. <br> Actualmente esta en desarrollo."
+            },
+            "Responsabilidad-Social": {
+                "titulo": "Sistema Responsabilidad Social - NodeJS",
+                "category": "Web FullStack",
+                "client": "Quality Smart Of Innovation",
+                "date": "2023-03-10",
+                "url": "No disponible",
+                "description": "Desarrollé este proyecto mientras laboraba en <u>Quality Smart Of Innovation</u>, en la cual, nació la necesidad de desarrollar un sistema que procese y digitalice las actividades en el ámbito social para cierto cliente, y poder reportar de manera más eficiente el control fiscal provenientes de las ayudas que otorga el cliente para las comunidades locales, lo he desarrollado con <strong>NodeJS</strong>, <strong>ExpressJS</strong> en conjunto con tecnologías como <strong>JQuery</strong> , <strong>DataTables</strong> y <strong>Bootstrap</strong>."
             }
         }
     ]
