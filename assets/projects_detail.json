@@ -40,6 +40,14 @@
                 "date": "2023-03-10",
                 "url": "No disponible",
                 "description": "Desarrollé este proyecto mientras laboraba en <u>Quality Smart Of Innovation</u>, en la cual, nació la necesidad de desarrollar un sistema que procese y digitalice las actividades en el ámbito social para cierto cliente, y poder reportar de manera más eficiente el control fiscal provenientes de las ayudas que otorga el cliente para las comunidades locales, lo he desarrollado con <strong>NodeJS</strong>, <strong>ExpressJS</strong> en conjunto con tecnologías como <strong>JQuery</strong> , <strong>DataTables</strong> y <strong>Bootstrap</strong>."
+            },
+            "React-Native": {
+                "titulo": "Aplicación multiplataforma con React Native",
+                "category": "Mobile Development",
+                "client": "No disponible",
+                "date": "2023-11-17",
+                "url": "No disponible",
+                "description": "Este proyecto consiste en conectar una app en <strong> React Native</strong> consumiendo una api construida en <strong>NodeJS</strong>. El objetivo es que se identifique y pueda tener acceso a la app. Incluye un mapa por el cual puede marcar lugares por geo-coordenadas. <br> Actualmente esta en desarrollo."
             }
         }
     ]
